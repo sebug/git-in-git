@@ -12,3 +12,7 @@ When XZibit is shown :-)
 ## Branches
 Just a pointer to a specific commit.
 
+## Why not check in large files?
+You change one byte - it gets the full file again.
+
+
