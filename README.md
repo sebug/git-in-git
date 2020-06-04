@@ -8,3 +8,7 @@ Get out of more situations where before you'd just delete and pull again.
 
 ## When am I in the inner repository?
 When XZibit is shown :-)
+
+## Branches
+Just a pointer to a specific commit.
+
